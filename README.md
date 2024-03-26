@@ -14,5 +14,7 @@ Responsive Design: Ensure the app works well on various screen sizes.
 Tech Stack:
 
 HTML5
+
 CSS3
+
 JavaScript 
